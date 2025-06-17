@@ -12,7 +12,8 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
 - 💻 I love creating beautiful web pages using **HTML & CSS**
 - 👩‍💻 Most of my projects live right here on [GitHub](https://github.com/vanshitamangwani)
-- 📫 How to reach me: *vanshitamangwani@example.com* (replace with real email)
+- 📫 How to reach me: *mangwanivanshita@gmail.com*
+-
 
 ---
 
@@ -44,8 +45,8 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="mailto:vanshitamangwani@example.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/vanshita-mangwani-812049312/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:mangwanivanshita@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" /></a>
 </p>
 
 ---
